@@ -1,0 +1,30 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marat1206/NPM.git"
+  },
+  "keywords": [
+    "Hello"
+  ],
+  "author": "Marat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marat1206/NPM/issues"
+  },
+  "homepage": "https://github.com/Marat1206/NPM#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-plugin-react": "^7.27.0",
+    "prettier": "^2.4.1"
+  }
+}
